@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 18
 SUBLEVEL = 150
-EXTRAVERSION =
-NAME = NevaCore
+EXTRAVERSION =-rc1
+NAME = Sandstorm
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
